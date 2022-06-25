@@ -1,0 +1,44 @@
+{
+    "name":"A Link to the Past Theme v.1 - @tendo209",
+	"hideIconTitle":true,
+    "title":{
+        "font":"8-bit-hud.ttf",
+        "size":18,
+        "color":"#FFFFFF"
+    },
+    "path":{
+        "font":"8-bit-hud.ttf",
+        "size":16,
+        "color":"#FFFFFF"
+    },
+    "hint":{
+       "font":"8-bit-hud.ttf",
+        "size":18,
+        "color":"#FFFFFF"
+    },
+    "currentpage":{
+        "font":"8-bit-hud.ttf",
+        "size":19,
+        "color":"#FFFFFF"
+    },
+    "total":{
+        "font":"8-bit-hud.ttf",
+        "size":19,
+        "color":"#FFFFFF"
+    },
+    "grid":{
+        "font":"8-bit-hud.ttf",
+        "fontascii":"8-bit-hud.ttf",
+        "grid1x4":10,
+        "grid3x4":8,
+        "color":"#FFCC00",
+        "selectedcolor":"#FFFFFF"
+    },
+    "list":{
+        "font":"8-bit-hud.ttf",
+        "fontascii":"8-bit-hud.ttf",
+        "size":12,
+        "color":"#FFFFFF",
+        "selectedcolor":"#FFFFFF"
+    }
+}
